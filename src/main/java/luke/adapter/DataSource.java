@@ -1,4 +1,4 @@
-package lucaguerra.adapter;
+package luke.adapter;
 
 public interface DataSource {
 
